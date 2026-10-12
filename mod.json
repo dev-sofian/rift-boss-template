@@ -1,0 +1,11 @@
+{
+  "namespace": "BossTemplate",
+  "name": "BossTemplate",
+  "displayName": "Boss Template",
+  "version": "0.1.0",
+  "description": "Custom Boss Template. You can directly use ./bosses/template.lua to create your own boss !",
+  "author": "Sofian",
+  "dependencies": {},
+  "api": { "scriptPath": "" },
+  "tags": []
+}
